@@ -1,17 +1,22 @@
-# E7 
+# EP6
 
-1. Leitura (Elixir School)
+Recomendação: Usar a conta criada anteriormente em https://alchemist.camp/ para ter acesso a vídeos e exercícios resolvidos.
 
-- Functions
-- Pipe Operator
-- Modules.
+Implementar:
 
+- wc: conta palavras, com a mesma funcionalidade do "wc" do linux.
 
-2. Exercício
+Source: https://alchemist.camp/episodes/word-count
 
-+ mini_markdown.ex : Implementar um tradutor de um subconjunto mínimo de Markdown para HTML, 
-usando funções em pipeline. 
-Criar um novo módulo com uma função to_html que converte Markdown para HTML 
-por meio da chamada de outras funções organizadas em um pipeline.
+```$ wc umtexto.txt``` (esse é o wc do linux)
 
-+ Consulta: https://alchemist.camp/episodes/mini-markdown (com vídeo em inglês)
+11 53 382 umtexto.txt
+
+O arquivo de entrada "umtexto.txt" (com 11 linhas, 53 palavras e 382 caracteres) será disponibilizado.
+
+- todo: cria uma lista de TODO. O programa deve ler arquivo CSV, transformá-lo em um Elixir map, e receber comandos a partir da entrada dos usuários.
+
+Source: https://alchemist.camp/episodes/minimal-todo-1
+
+- Colocar as respostas na pasta EP6, nos arquivos: my-wc.ex e todo.ex
+
