@@ -1,7 +1,16 @@
+# E7 
 
-# mini_markdown.ex 
+1. Leitura (Elixir School)
 
-Implementar um tradutor de um subconjunto mínimo de Markdown para HTML, usando funções em pipeline. 
+- Functions
+- Pipe Operator
+- Modules.
+
+
+2. Exercício
+
++ mini_markdown.ex : Implementar um tradutor de um subconjunto mínimo de Markdown para HTML, 
+usando funções em pipeline. 
 Criar um novo módulo com uma função to_html que converte Markdown para HTML 
 por meio da chamada de outras funções organizadas em um pipeline.
 

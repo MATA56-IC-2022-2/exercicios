@@ -6,4 +6,6 @@
 - EP4
 - [EP5](./EP5/README.md)
 - [EP6](./EP6/README.md)
+- [EP7](./EP7/README.md)
+
 
